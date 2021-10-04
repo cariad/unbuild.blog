@@ -1,0 +1,3 @@
+[submodule "themes/tofu-hugo"]
+	path = themes/tofu-hugo
+	url = https://github.com/cariad/tofu-hugo.git

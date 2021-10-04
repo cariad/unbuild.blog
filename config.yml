@@ -1,0 +1,20 @@
+baseURL: https://unbuild.blog
+languageCode: en-GB
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+paginate: 12
+params:
+  analytics:
+    fathom: GQXPCLZO
+  copyright: "© 2021 Cariad Eccleston"
+  subtitle: by cariad
+  subtitle_url: /2021/10/hello/
+  twitter: cariadeccleston
+permalinks:
+  /: /:year/:month/:slug/
+
+pygmentsUseClasses: true
+theme: tofu-hugo
+title: unbuild.blog

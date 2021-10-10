@@ -8,9 +8,7 @@ Apple is great at Big Stuff.
 
 Whether you love or loathe that Big Stuff, you have to agree that a portfolio of operating systems, mobile devices, desktops, laptops, TV production, medical research and retail stores -- both app and glass-and-steel -- is _unusually_ epic, but business-as-usual to the folks in Cupertino.
 
-You'll never be the biggest company in the world[^biggest] if you suck at the Big Stuff.
-
-[^biggest]: [Statista, "The 100 largest companies in the world by market capitalization in 2021"](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
+You'll never be the biggest company in the world if you suck at the Big Stuff.
 
 But oh boy, does Apple suck at the fuzzy edges around the Big Stuff.
 
@@ -34,7 +32,9 @@ I got two emails from Apple this morning. The first concerned my iCloud+ subscri
 >
 > Your account will be downgraded to the free 5 GB storage plan if we cannot successfully renew your subscription.
 
-The double "GB" up there is amateurish, but y'know, even trillion dollar teams forget to loop in proofreaders.
+The double "GB" up there is amateurish, but y'know, even trillion dollar teams[^biggest] forget to loop in proofreaders.
+
+[^biggest]: [Statista, "The 100 largest companies in the world by market capitalization in 2021"](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
 
 My boyfriend and I have close to 50 GB of stuff in our family iCloud+ subscription. We can't afford to fall into the free plan. So, I got right on it.
 

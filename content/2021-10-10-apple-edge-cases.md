@@ -1,5 +1,5 @@
 ---
-date: 2021-10-10
+date: 2021-10-10T09:00:00
 title: Apple's edge cases
 slug: apple-edge
 ---

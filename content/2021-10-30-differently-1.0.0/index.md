@@ -15,7 +15,7 @@ So, here's `differently`!
 
 <!--more-->
 
-`differently` is a CLI application and Python packages that visualises the differences between strings, multi-line text bodies, and any objects that can be serialised to JSON or YAML.
+`differently` is a CLI application and Python package that visualises the differences between strings, multi-line text bodies, and any objects that can be serialised to JSON or YAML.
 
 ## CLI
 

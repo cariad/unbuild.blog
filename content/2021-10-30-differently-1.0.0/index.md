@@ -8,8 +8,8 @@ tags:
 
 Python has baked-in support for describing the differences between bodies of text, but I wanted:
 
-- colourful visualisations of differences, and:
-- meaningful visualisations of the differences between JSON and YAML too
+- Colourful visualisations of differences, and:
+- Meaningful visualisations of the differences between JSON and YAML too
 
 So, here's `differently`!
 

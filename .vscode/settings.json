@@ -30,5 +30,6 @@
     "Uteem",
     "Wikimapia",
     "Wotfard"
-  ]
+  ],
+  "explorer.sortOrder": "mixed"
 }

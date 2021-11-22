@@ -1,7 +1,8 @@
 ---
 date: 2021-10-30
-title: differently 1.0.0
+title: Differently 1.0.0
 tags:
+  - differently
   - dinject
   - python
 ---
@@ -11,15 +12,15 @@ Python has baked-in support for describing the differences between bodies of tex
 - Colourful visualisations of differences, and:
 - Meaningful visualisations of the differences between JSON and YAML too
 
-So, here's `differently`!
+So, here's Differently!
 
 <!--more-->
 
-`differently` is a CLI application and Python package that visualises the differences between strings, multi-line text bodies, and any objects that can be serialised to JSON or YAML.
+Differently is a CLI application and Python package that visualises the differences between strings, multi-line text bodies, and any objects that can be serialised to JSON or YAML.
 
 ## CLI
 
-For a quick CLI example, first install `differently`:
+For a quick CLI example, first install Differently:
 
 ```bash
 pip install differently
@@ -58,9 +59,9 @@ What about JSON and YAML?
 
 ## Comparing data
 
-`differently` treats files as plain text by default, but you can force them to be treated as JSON or YAML by specifying `--in-format json` or `--in-format yaml`.
+Differently treats files as plain text by default, but you can force them to be treated as JSON or YAML by specifying `--in-format json` or `--in-format yaml`.
 
-When you specify a data format, `differently` does a little bit of preparation before scanning for differences:
+When you specify a data format, Differently does a little bit of preparation before scanning for differences:
 
 - Dictionary keys are sorted alphabetically
 - Consistent formatting (i.e. brace styles, indenting, etc) is applied to both files

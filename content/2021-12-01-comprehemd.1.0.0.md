@@ -2,6 +2,7 @@
 date: 2021-12-01
 title: CompreheMD 1.0.0
 tags:
+  - comprehemd
   - mdcode
   - python
 ---

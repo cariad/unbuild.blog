@@ -84,7 +84,7 @@ Say your European services get deployed with that policy attached. What's the wo
 
 Sure, the bucket might not exist.
 
-But what if it _does_ exist, but you don't own it?
+What if it _does_ exist, but you don't own it?
 
 What if the cheeky squatter counted on you being stressed and rushed by your deployments breaking, and applied a policy to their bucket that grants your account permission to upload anything it likes?
 

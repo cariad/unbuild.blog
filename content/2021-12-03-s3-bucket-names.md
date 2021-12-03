@@ -186,7 +186,7 @@ Resources:
               Fn::Sub: arn:aws:ssm:${AWS::Region}:${AWS::AccountId}:parameter/Buckets/${LogicalName}
 ```
 
-Say you deploy that template with the local name set to "Builds". This will create:
+Say you deploy that template with the logical name set to "Builds". This will create:
 
 - A bucket with an unknown name.
 - A Systems Manager parameter named `/Buckets/Build` that holds the bucket's name.

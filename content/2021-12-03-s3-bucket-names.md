@@ -100,9 +100,7 @@ What do our IAM policies look like then?
 
 ## Managed policies
 
-One option you might consider is _tagging_. If a bucket's policy requires uploaded objects to have a specific tag, and your IAM roles have policies that either allow or deny their ability to use that tag, then you can limit each role's ability to use each bucket.
-
-For smaller and simpler deployments, though, _managed policies_ might be enough.
+There are a few ways you could tackle this. I'm going with **managed policies**.
 
 The following CloudFormation template deploys:
 

@@ -3,6 +3,8 @@ date: 2021-12-03
 title: Why do you care what your S3 buckets are named?
 tags:
   - amazon web services
+  - cloudformation
+  - systems manager
 ---
 
 Some folks really, _really_ care about the names of their S3 buckets.

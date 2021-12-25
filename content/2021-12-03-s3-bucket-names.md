@@ -4,6 +4,7 @@ title: Why do you care what your S3 buckets are named?
 tags:
   - amazon web services
   - cloudformation
+  - s3
   - systems manager
 ---
 
